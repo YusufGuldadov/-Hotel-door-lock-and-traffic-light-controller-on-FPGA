@@ -1,0 +1,27 @@
+To,Assignment Name,Value
+clk_27,Location,PIN_B14
+key_2,Location,PIN_N21
+key_1,Location,PIN_M21
+key_0,Location,PIN_M23
+card_read,Location,PIN_E21
+q[15],Location,PIN_AB22
+entry_code_on_card[0],Location,PIN_AB28
+entry_code_on_card[1],Location,PIN_AC28
+entry_code_on_card[2],Location,PIN_AC27
+entry_code_on_card[3],Location,PIN_AD27
+entry_code_on_card[4],Location,PIN_AB27
+entry_code_on_card[5],Location,PIN_AC26
+entry_code_on_card[6],Location,PIN_AD26
+entry_code_on_card[7],Location,PIN_AB26
+entry_code_on_card[8],Location,PIN_AC25
+entry_code_on_card[9],Location,PIN_AB25
+entry_code_on_card[10],Location,PIN_AC24
+entry_code_on_card[11],Location,PIN_AB24
+entry_code_on_card[12],Location,PIN_AB23
+entry_code_on_card[13],Location,PIN_AA24
+entry_code_on_card[14],Location,PIN_AA23
+entry_code_on_card[15],Location,PIN_AA22
+card_type[0],Location,PIN_Y24
+card_type[1],Location,PIN_Y23
+trip_lock_for_guest,Location,PIN_E24
+trip_lock_for_maid,Location,PIN_E25

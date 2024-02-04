@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Nov 14 22:01:10 2023
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Standard Edition
+Revision Name : traffic_and_pedestrian_light_controller
+Top-level Entity Name : traffic_and_pedestrian_light_controller
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 1,246 / 114,480 ( 1 % )
+    Total combinational functions : 738 / 114,480 ( < 1 % )
+    Dedicated logic registers : 978 / 114,480 ( < 1 % )
+Total registers : 978
+Total pins : 62 / 529 ( 12 % )
+Total virtual pins : 0
+Total memory bits : 5,760 / 3,981,312 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

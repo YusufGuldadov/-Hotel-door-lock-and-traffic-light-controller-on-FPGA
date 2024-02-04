@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Nov 14 22:01:01 2023
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Standard Edition
+Revision Name : traffic_and_pedestrian_light_controller
+Top-level Entity Name : traffic_and_pedestrian_light_controller
+Family : Cyclone IV E
+Total logic elements : 1,273
+    Total combinational functions : 736
+    Dedicated logic registers : 978
+Total registers : 978
+Total pins : 62
+Total virtual pins : 0
+Total memory bits : 5,760
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

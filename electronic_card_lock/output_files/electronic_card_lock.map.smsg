@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at electronic_card_lock.sv(65): always construct contains both blocking and non-blocking assignments File: /home/.engr-ece/hze083/Documents/CME341/Labs/Lab_7/electronic_card_lock/electronic_card_lock.sv Line: 65
+Warning (10268): Verilog HDL information at electronic_card_lock.sv(126): always construct contains both blocking and non-blocking assignments File: /home/.engr-ece/hze083/Documents/CME341/Labs/Lab_7/electronic_card_lock/electronic_card_lock.sv Line: 126

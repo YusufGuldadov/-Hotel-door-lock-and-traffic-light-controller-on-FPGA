@@ -1,0 +1,15 @@
+module electronic_card_lock(
+input wire key_0, key_1,
+output reg card_read
+);
+
+always @ (negedge key_0 or key_1)
+if(key_0==1'b0)
+card_read<=1'b0;
+else if(key_1==1'b0)
+card_read<=1'b1;
+else 
+card_read<=card_read;
+
+
+endmodule 
